@@ -26,13 +26,11 @@ This project implements a basic mobile phonebook application for a Namibian tele
 * Additionally, the project includes an analysis of the search algorithm's efficiency. While the application leverages basic data structures, there is room to explore more advanced techniques such as hash tables and tries.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With:
 
 * Netbeans
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
 
@@ -48,7 +46,6 @@ The usage of this mobile phonebook application is to efficiently manage and mani
 
 This application is primarily designed for users who need a straightforward, efficient solution to manage contact information with basic functionalities, leveraging simple data structures for ease of use and implementation. It could be useful in environments where advanced database systems aren't required, such as in basic mobile systems or small-scale telecom operations.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
 

@@ -26,6 +26,26 @@ This project implements a basic mobile phonebook application for a Namibian tele
 * Additionally, the project includes an analysis of the search algorithm's efficiency. While the application leverages basic data structures, there is room to explore more advanced techniques such as hash tables and tries.
 
 
+Modules and Functions
+The application is divided into the following modules, each performing specific functions:
+
+Contact Management Module:
+
+Insert Contact: Adds a new contact to the phonebook.
+Search Contact: Searches for a contact by name.
+Display All Contacts: Displays all contacts stored in the phonebook.
+Delete Contact: Deletes a contact by name.
+Update Contact: Updates a contact’s phone number.
+Sort Contacts: Sorts the contacts alphabetically by name.
+File Handling Module:
+
+Save Contacts to File: Saves all contacts to a file in CSV format.
+Load Contacts from File: Loads contacts from a file and inserts them into the phonebook.
+Efficiency Module:
+
+Analyze Search Efficiency: Measures and outputs the time taken to search for a contact.
+
+
 
 ## Built With:
 

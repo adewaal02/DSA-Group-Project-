@@ -1,7 +1,8 @@
 # DSA Group Project 
 
+![Group 18](https://github.com/user-attachments/assets/6945dcf3-711f-4911-8a39-e2a0395cbb0b)
 <details>
-  <summary>Table of Contents</summary>
+  <summary> Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>

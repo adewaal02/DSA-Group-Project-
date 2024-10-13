@@ -69,6 +69,43 @@ The usage of this mobile phonebook application is to efficiently manage and mani
 This application is primarily designed for users who need a straightforward, efficient solution to manage contact information with basic functionalities, leveraging simple data structures for ease of use and implementation. It could be useful in environments where advanced database systems aren't required, such as in basic mobile systems or small-scale telecom operations.
 
 ## Modules & Funtions
+1 Design the algorithm
+Application Modules
+A module in our context refers to a self-contained component of a phonebook 
+application that performs a specific function related to contact management .Each 
+module handles a particular task , allowing for organized and efficient management 
+of contacts.Moreover each modules contributes to the overall functionality of the 
+phonebook, enabling users to manage their contacts efficiently.
+In our phonebook modules are:
+1. Contact Module : Insert, Update, Delete, and Search Contacts.
+2. Display Module : Display all contacts.
+3. Sorting Module : For faster searches.
+4. Efficiency Analysis Module: To analyze the performance of the search 
+algorithm.
+5. Saving contacts : Save contacts to file
+6. Loading contacts : Loading contacts in a fie
+1. LOGIC REPRESENTATION OF CONTACT MODULE
+1.1 INSERT CONTACTS -Adds a new contact to the phonebook, ensuring that no 
+duplicate entries are created and that the phonebook has space for new contacts.
+1.2 SEARCH CONTACTS -Allows users to find a contact by their name and retrieve 
+their phone number.
+1.3 DELETE CONTACTS -Removes a contact from the phonebook based on their 
+name.
+1.5 UPDATE CONTACTS -Modifies the phone number of an existing contact.
+2. LOGIC REPRESENTATION OF DISPLAY MODULE
+2.1 DISPLAY ALL CONTACTS -Shows a list of all contacts currently in the 
+phonebook. 
+3. LOGIC REPRESENTATION OF SORTING MODULE
+3.1 SORT CONTACTS -Arranges the contacts in alphabetical order by name to 
+make searching faster
+4. LOGIC REPRESENTATION OF ANALYSING MODULE
+4.1 ANALYZE EFFICIENCY -Measures how long it takes to search for a contact, 
+helping to understand the performance of the search operation.
+5. LOGIC REPRESENTATION OF SAVING CONTACTS
+5.1 Save Contacts to File - Saves all contacts to a file for persistence. 
+6. LOGIC REPRESENTATION OF LOADING CONTACTS
+6.2 Load Contacts from File - Loads contacts from a file into the phonebook.
+   
 
  
 

@@ -46,9 +46,12 @@ The usage of this mobile phonebook application is to efficiently manage and mani
 
 This application is primarily designed for users who need a straightforward, efficient solution to manage contact information with basic functionalities, leveraging simple data structures for ease of use and implementation. It could be useful in environments where advanced database systems aren't required, such as in basic mobile systems or small-scale telecom operations.
 
+## Modules & Funtions
+
+ 
 
 ## Contributing
 
-### Top Contibutor Insights 
+### Contibutor Insights 
 
 <a href="https://github.com/adewaal02/DSA-Group-Project-/graphs/contributors"> </a>

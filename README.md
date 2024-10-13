@@ -45,24 +45,7 @@ Load Contacts from File: Loads contacts from a file and inserts them into the ph
 Efficiency Module:
 
 Analyze Search Efficiency: Measures and outputs the time taken to search for a contact.
-
-
-
-Contact Management Module:
-
-Insert Contact: Adds a new contact to the phonebook.
-Search Contact: Searches for a contact by name.
-Display All Contacts: Displays all contacts stored in the phonebook.
-Delete Contact: Deletes a contact by name.
-Update Contact: Updates a contact’s phone number.
-Sort Contacts: Sorts the contacts alphabetically by name.
-File Handling Module:
-
-Save Contacts to File: Saves all contacts to a file in CSV format.
-Load Contacts from File: Loads contacts from a file and inserts them into the phonebook.
-Efficiency Module:
-
-Analyze Search Efficiency: Measures and outputs the time taken to search for a contact.
+-Isaiah Mjumira
 
 
 

@@ -142,6 +142,11 @@ by name.
 - Function: Saves all contacts to a file for persistence.
   - Saves each contact’s name and phone number to a file in CSV format.
   - Handles potential IO exceptions and provides error messages if needed
+ 
+## Pseudocodes and Flowcharts
+[Image of PDF](https://your-pdf-url.pdf)
+
+[Download the PDF](https://your-pdf-url.pdf)
 
 ## Contributing
 

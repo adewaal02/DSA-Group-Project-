@@ -17,6 +17,7 @@
 You can download the project files here: https://github.com/adewaal02/DSA-Group-Project-/blob/ecdb38e5dce816b3a424bfa43019152406136be9/PhonebookProject_Final.zip
 > [IMPORTANT!] Final version of the program. Please use this to review.
 NB! Change file path in to local machine directory path, under Source package --> model --> Phonebook.java
+
 E.g. "C:\\Users\\Campb\\OneDrive\\Documents\\NetBeansProjects\\PhonebookProject\\contacts.txt" 
 
 ## About The Project 

@@ -13,7 +13,7 @@
   </ol>
 </details>
 
-## Download source code
+## Download Source Code
 You can download the project files here: https://github.com/adewaal02/DSA-Group-Project-/blob/ecdb38e5dce816b3a424bfa43019152406136be9/PhonebookProject_Final.zip
 
 ## About The Project 

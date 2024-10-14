@@ -55,7 +55,7 @@ Analyze Search Efficiency: Measures and outputs the time taken to search for a c
 <img src="https://github.com/user-attachments/assets/96af4364-76cb-4774-a345-15780ba17724" width="400" height="150">
 
 
-* Netbeans
+* Apache NetBeans
 
 
 ## Usage

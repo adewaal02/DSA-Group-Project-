@@ -144,9 +144,10 @@ by name.
   - Handles potential IO exceptions and provides error messages if needed
  
 ## Pseudocodes and Flowcharts
-[Image of PDF](https://your-pdf-url.pdf)
 
-[Download the PDF](https://your-pdf-url.pdf)
+* [Pseudocode.pdf](https://github.com/user-attachments/files/17369219/002A.Pseudocode.pdf)
+
+* [View File Containing Flowcharts](https://github.com/adewaal02/DSA-Group-Project-/blob/main/Flowcharts&Pseudocodes/)
 
 ## Contributing
 

@@ -13,10 +13,10 @@
   </ol>
 </details>
 
-## About The Project 
+## Download source code
+You can download the project files here: PhonebookProject_Final.zip
 
-## Download
-You can download the project files here:
+## About The Project 
 
 This project implements a basic mobile phonebook application for a Namibian telecommunications company, focusing on efficient phonebook operations using simple linear data structures like arrays and linked lists. The application is designed to handle key operations such as:
 

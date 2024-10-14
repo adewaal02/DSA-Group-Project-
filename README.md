@@ -1,6 +1,7 @@
 # DSA Group Project 
 
-![Group 18](https://github.com/user-attachments/assets/6945dcf3-711f-4911-8a39-e2a0395cbb0b)
+<img src="https://github.com/user-attachments/assets/6945dcf3-711f-4911-8a39-e2a0395cbb0b" width="600" height="300">
+
 <details>
   <summary> Table of Contents</summary>
   <ol>
@@ -51,6 +52,9 @@ Analyze Search Efficiency: Measures and outputs the time taken to search for a c
 
 ## Built With:
 
+<img src="https://github.com/user-attachments/assets/96af4364-76cb-4774-a345-15780ba17724" width="400" height="150">
+
+
 * Netbeans
 
 
@@ -69,31 +73,68 @@ The usage of this mobile phonebook application is to efficiently manage and mani
 This application is primarily designed for users who need a straightforward, efficient solution to manage contact information with basic functionalities, leveraging simple data structures for ease of use and implementation. It could be useful in environments where advanced database systems aren't required, such as in basic mobile systems or small-scale telecom operations.
 
 ## Modules & Funtions
-The application Modules:
-A modules in our context(phonebook) refers to a self-contained component of a phonebook 
-application that performs a specific function related to contact management .Each 
-module handles a particular task , allowing for organized and efficient management 
-of contacts.Moreover each modules contributes to the overall functionality of the 
-phonebook, enabling users to manage their contacts efficiently.
-In our phonebook modules are: 
-INSERT CONTACTS -Adds a new contact to the phonebook, ensuring that no 
-duplicate entries are created and that the phonebook has space for new contacts.
-SEARCH CONTACTS -Allows users to find a contact by their name and retrieve 
-their phone number. DELETE CONTACTS -Removes a contact from the phonebook based on their 
-name. UPDATE CONTACTS -Modifies the phone number of an existing contact.
-DISPLAY ALL CONTACTS -Shows a list of all contacts currently in the 
-phonebook. 
-SORT CONTACTS -Arranges the contacts in alphabetical order by name to 
-make searching faster
- ANALYZE EFFICIENCY -Measures how long it takes to search for a contact, 
-helping to understand the performance of the search operation.
-Save Contacts to File - Saves all contacts to a file for persistence. 
-Load Contacts from File - Loads contacts from a file into the phonebook.
-FUNCTIONS: 
-Our phonebook application offers a seamless way to manage your contacts. Effortlessly add, edit, and delete entries with an intuitive interface. Enjoy advanced search capabilities to quickly find the contacts you need. Organize your contacts with customizable groups and access them anytime, anywhere. Stay connected and never lose touch with our user-friendly features designed for efficiency and convenience!
-   
 
- 
+### Modules
+1. Contact Management
+   - Handles the creation, search, deletion, and updating of contacts.
+   
+2. Search Optimization
+   - Focuses on analyzing the efficiency of search operations.
+   
+3. Display and Organization
+   - Manages displaying and sorting contacts.
+   
+4. Data Persistence
+   - Deals with saving and loading contacts to/from a file.
+
+### Functions
+
+1. Insert Contacts: 
+- Function checks if the contact already exists by comparing names (ignoring case).
+  - If the contact doesn't exist, it creates a new `Contact` object and adds it to
+the list.
+  - Feedback is provided via a success or error message.
+
+2. Search Contacts:
+- Function: Searches for a contact by name and returns their phone number.
+  - The function loops through the phonebook, checking for a match by name.
+  - If found, it displays the contact’s details; otherwise, it outputs "Contact not
+found."
+
+3. Delete Contacts: 
+- Function: Deletes a contact from the phonebook by name.
+  - The function uses an iterator to safely remove the contact while looping
+through the list.
+  - It provides feedback if the contact is deleted or not found.
+  
+4. Update Contacts:
+- Function: Updates an existing contact's phone number.
+  - Searches for the contact by name, and if found, updates the phone number.
+  - Provides feedback on whether the update was successful, or the contact
+wasn't found.
+
+5. Analyza Search Efficiency
+- Function: Analyses how efficient the search operation is by measuring the
+time taken.
+  - Measures the time taken for the search operation by using system
+timestamps.
+  - Outputs the search time in milliseconds.
+  
+6. Display All Contacts: 
+- Function: Displays all contacts stored in the phonebook.
+  - Checks if the phonebook is empty. If it is, it displays an error message.
+  - Otherwise, it prints each contact’s name and phone number.
+  
+7. Sort Contacts:
+- Function: Sorts the contacts alphabetically by name.
+  - This function uses the `Comparator` to sort the contacts list alphabetically
+by name.
+  - A success message is displayed once the sorting is complete.
+
+8. Save Contacts to File: 
+- Function: Saves all contacts to a file for persistence.
+  - Saves each contact’s name and phone number to a file in CSV format.
+  - Handles potential IO exceptions and provides error messages if needed
 
 ## Contributing
 

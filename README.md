@@ -148,11 +148,3 @@ by name.
 * [Pseudocode.pdf](https://github.com/user-attachments/files/17369219/002A.Pseudocode.pdf)
 
 * [View File Containing Flowcharts](https://github.com/adewaal02/DSA-Group-Project-/tree/main/Flowcharts%20&%20Pseudocodes)
-
-
-
-## Contributing
-
-### Contibutor Insights 
-
-<a href="https://github.com/adewaal02/DSA-Group-Project-/graphs/contributors"> </a>
